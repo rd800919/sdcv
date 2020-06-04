@@ -21,7 +21,7 @@
     "cipher_tls13": "",
     "curves": "",
     "prefer_server_cipher": false, 
-    "sni": "t.trojan99.tk",
+    "sni": "網域",
     "alpn": [
       "http/1.1"
     ],
@@ -58,7 +58,7 @@
   "websocket": {
     "enabled": true,
     "path": "/picdown",
-    "hostname": "t.trojan99.tk",
+    "hostname": "網域",
     "obfuscation_password": "",
     "double_tls": true,
     "ssl": {
@@ -68,7 +68,7 @@
       "key": "/etc/trojan-go/server.key",
       "key_password": "",
       "prefer_server_cipher": false,
-      "sni": "t.trojan99.tk",
+      "sni": "網域",
       "session_ticket": true,
       "reuse_session": true,
       "plain_http_response": ""
